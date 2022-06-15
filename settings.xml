@@ -5,14 +5,14 @@
 
   <servers>
     <server>
-      <id>mymaven-snapshots</id>
+      <id>mymaven-snapshorts</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>1234</password>
     </server>
     <server>
       <id>mymaven-releases</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>1234</password>
     </server>
   </servers>
 
@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://35.175.234.166:8081/repository/mymaven-group/</url>
+      <url>http://44.205.10.232:8081/repository/mymaven-group/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
